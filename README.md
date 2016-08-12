@@ -11,6 +11,8 @@ brics 是一个高性能的自动机，包含了一个正则表达式引擎。
 	不支持常用的转义名称，如\w \s
 	不支持非贪心匹配
 	不支持捕获 group
+
+本项目试图解决这些问题。	
 	
 ChangeLog
 
@@ -23,3 +25,7 @@ ChangeLog
 Acknowledgements
 
 	tommyettinger/gwt-automaton
+	
+TODO：
+	
+	catch group
